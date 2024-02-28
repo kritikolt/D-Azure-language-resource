@@ -55,7 +55,14 @@ Este é um guia passo a passo para configurar um recurso de Linguagem no Azure e
 ## Testes gerados
 
 1. "Despite facing numerous challenges, she remained optimistic and determined to pursue her dreams, finding strength in her resilience and unwavering perseverance."
+<img src="assets/txt-1.png">
+
+
 
 2. "The breathtaking beauty of the sunset over the majestic mountains left him feeling a sense of awe and tranquility, reminding him of the precious moments in life worth cherishing."
+<img src="assets/txt-2.png">
+
+
 
 3. "After facing repeated setbacks and disappointments, the realization that his dreams may never come to fruition filled him with a deep sense of disillusionment and despair, leaving him questioning the purpose of his efforts."
+<img src="assets/txt-3.png">
